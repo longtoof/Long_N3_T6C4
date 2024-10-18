@@ -9,17 +9,8 @@ Study at HUFLIT
 * 🌍  I'm based in TP Ho Chi Minh
 * 🖥️  See my portfolio at [Oder Food](http://github.com/longtoof/TienTrinh)
 * ✉️  You can contact me at [hailongtrannguyen7@gmail.com](mailto:hailongtrannguyen7@gmail.com)
-  ###Hi 👋 My name is Hai Long
-=========================
+ 
 
-Web Developer
--------------
-
-Study at HUFLIT
-
-* 🌍  I'm based in TP Ho Chi Minh
-* 🖥️  See my portfolio at [Oder Food](http://github.com/longtoof/TienTrinh)
-* ✉️  You can contact me at [hailongtrannguyen7@gmail.com](mailto:hailongtrannguyen7@gmail.com)
 
 ### Skills
 

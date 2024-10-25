@@ -4,7 +4,7 @@ Hi 👋 My name is Tran Nguyen Hai Long
 Web Developer
 -------------
 
-Study at HUFLIT
+Hello ! I'm a web developer. I am studying at HUFLIT
 
 * 🌍  I'm based in TP Ho Chi Minh
 * 🖥️  See my portfolio at [Oder Food](http://github.com/longtoof/TienTrinh)

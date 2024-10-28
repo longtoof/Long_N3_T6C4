@@ -1,7 +1,7 @@
-Hi 👋 My name is Tran Nguyen Hai Long
+Hi There 👋 I'm Hai Long
 =========================
 
-Web Developer
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR2bG94cWx6eWU5eWtrdXZ1bDdlNnAxMTMxdWF5ZmdraW9oMnM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OK914NO5d8ey9sSNAQ/giphy.gif
 -------------
 
 Hello ! I'm a web developer. I am studying at HUFLIT

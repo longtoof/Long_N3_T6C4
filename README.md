@@ -55,7 +55,9 @@ All About living life at its best.
 
 #### Top Repositories
 
-
+- [Gatsby](https://www.gatsbyjs.com/)
+- [Tailwind CSS](https://tailwindcss.com/): for styling
+- [GSAP](https://greensock.com/gsap/): for small SVG Animations
 
 
 ### Socials

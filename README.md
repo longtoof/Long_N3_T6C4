@@ -60,9 +60,9 @@ All About living life at its best.
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations
 ### Career goals
  - Short-term goals
- To gain hands-on experience in [ngành công nghệ cụ thể] and contribute to innovative projects.
- To develop my skills in [ngôn ngữ lập trình, framework] and become a proficient [vị trí mong muốn].
- To secure a challenging position as a [vị trí mong muốn] at a dynamic company.
+ To gain hands-on experience in [App Dev] and contribute to innovative projects.
+ To develop my skills in [Flutter] and become a proficient [Developer].
+ To secure a challenging position as a [Project manager] at a dynamic company.
  - Long-term goal:
  To become a full-stack developer specializing in [AI].
  To lead a development team and build scalable applications.

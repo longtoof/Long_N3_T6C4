@@ -27,7 +27,17 @@ All About living life at its best.
 * 🖥️  See my portfolio at [Oder Food](http://github.com/longtoof/TienTrinh)
 * ✉️  You can contact me at [hailongtrannguyen7@gmail.com](mailto:hailongtrannguyen7@gmail.com)
  
-
+--------------
+🛠️ Installation Steps
+Clone the repository
+git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
+Change the working directory
+cd github-profile-readme-generator
+Install dependencies
+npm install
+Run the app
+npm start
+🌟 You are all set!
 
 ### Skills
 

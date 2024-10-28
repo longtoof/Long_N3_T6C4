@@ -57,8 +57,7 @@ All About living life at its best.
 
 - [Gatsby](https://www.gatsbyjs.com/) is a website I made recently. Within 2 weeks I researched and completed it with my teammates
 - [Selfcare](https://www.selfcareday.com/): 
-The health website that I am most passionate about. I did it within 1 month and perfected the user's health needs 
-I tried to design a very attractive interface. Easy to use and attracts users.
+The health website that I am most passionate about. I did it within 1 month and perfected the user's health needs .I tried to design a very attractive interface. Easy to use and attracts users.
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations 
 ### Career goals
  - Short-term goals

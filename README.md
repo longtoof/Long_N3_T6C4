@@ -61,11 +61,16 @@ All About living life at its best.
 ### Career goals
  - Short-term goals
  To gain hands-on experience in [App Dev] and contribute to innovative projects.
+
  To develop my skills in [Flutter] and become a proficient [Developer].
+ 
  To secure a challenging position as a [Project manager] at a dynamic company.
+ 
  - Long-term goal:
  To become a full-stack developer specializing in [AI].
+
  To lead a development team and build scalable applications.
+ 
  To contribute to open-source projects and become a recognized expert in my field.
 
 ### Socials

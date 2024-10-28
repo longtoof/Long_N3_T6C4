@@ -1,10 +1,24 @@
 Hi There 👋 I'm Hai Long
 =========================
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR2bG94cWx6eWU5eWtrdXZ1bDdlNnAxMTMxdWF5ZmdraW9oMnM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OK914NO5d8ey9sSNAQ/giphy.gif
+ 🙎 Tran Nguyen Hai Long | 💻 Full Stack Developer | 🛸 HCM City , Viet Nam 🇻🇳
 -------------
 
-Hello ! I'm a web developer. I am studying at HUFLIT
+⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️
+I'm 20 years old Full-Stack developer from Viet Nam.
+🥀 Learning Swift & Objective_C
+
+with Javascript, Typescript, React and 69 others.
+
+🔭 SpaceX FanBoi, die for space😼
+
+🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+
+I do fullstack and a bit of everything ❤️
+
+All About living life at its best.
+
+
 
 * 🌍  I'm based in TP Ho Chi Minh
 * 🖥️  See my portfolio at [Oder Food](http://github.com/longtoof/TienTrinh)

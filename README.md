@@ -5,6 +5,9 @@ Hi There 👋 I'm Hai Long
 -------------
 
 ⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️
+
+
+
 I'm 20 years old Full-Stack developer from Viet Nam.
 🥀 Learning Swift & Objective_C
 

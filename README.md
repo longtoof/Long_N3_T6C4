@@ -58,7 +58,15 @@ All About living life at its best.
 - [Gatsby](https://www.gatsbyjs.com/)
 - [Tailwind CSS](https://tailwindcss.com/): for styling
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations
-
+### Career goals
+ - Short-term goals
+ To gain hands-on experience in [ngành công nghệ cụ thể] and contribute to innovative projects.
+ To develop my skills in [ngôn ngữ lập trình, framework] and become a proficient [vị trí mong muốn].
+ To secure a challenging position as a [vị trí mong muốn] at a dynamic company.
+ - Long-term goal:
+ To become a full-stack developer specializing in [AI].
+ To lead a development team and build scalable applications.
+ To contribute to open-source projects and become a recognized expert in my field.
 
 ### Socials
 

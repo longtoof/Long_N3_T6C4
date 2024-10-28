@@ -56,7 +56,7 @@ All About living life at its best.
 #### Top Repositories
 
 - [Gatsby](https://www.gatsbyjs.com/) is a website I made recently. Within 2 weeks I researched and completed it with my teammates
-- [Tailwind CSS](https://tailwindcss.com/): for styling 
+- [Selfcare]((https://www.selfcareday.com/)): for styling 
 I tried to design a very attractive interface. Easy to use and attracts users.
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations 
 ### Career goals

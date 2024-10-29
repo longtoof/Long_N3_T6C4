@@ -26,7 +26,7 @@ All About living life at its best.
 
 
 * 🌍  I'm based in TP Ho Chi Minh
-* 🖥️  See my portfolio at [Oder Food](https://github.com/longtoof)
+* 🖥️  See my portfolio at [longtoof](https://github.com/longtoof)
 * ✉️  You can contact me at [hailongtrannguyen7@gmail.com](mailto:hailongtrannguyen7@gmail.com)
  
 --------------

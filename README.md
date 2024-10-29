@@ -67,7 +67,7 @@ All About living life at its best.
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/longtoof/TienTrinh)
-![MIOTO](https://github.com/k4sp3rz/DoAn_Mioto)
+[![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vib.com.vn%2Fvn%2Fpromotion%2Fvib-world%2Fdetail%3Fcate%3D%26promotionId%3D4346251%26name%3DMioto&psig=AOvVaw04zeCbnRs_GtAim67zX_uQ&ust=1730260149411000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLim3b7XsokDFQAAAAAdAAAAABAE)](https://github.com/k4sp3rz/DoAn_Mioto)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/HoangAnhWilliam/Test_EcommerceWebsite.git)
 [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/TanPhuc2804/WebStore_KTPM)
 

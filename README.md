@@ -12,9 +12,7 @@ Hi There 👋 I'm Hai Long
 
 I'm 20 years old Full-Stack developer from Viet Nam.
 
-🥀 Learning Swift & Objective_C
-
-with Javascript, Typescript, React and 69 others.
+🥀 Learning Swift & Objective_C with Javascript, Typescript, React and others.
 
 🔭 SpaceX FanBoi
 

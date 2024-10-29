@@ -77,8 +77,6 @@ All About living life at its best.
 [![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
 [![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
 [![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
 
 
 #### Top Repositories

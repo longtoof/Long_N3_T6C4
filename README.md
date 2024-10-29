@@ -60,7 +60,8 @@ All About living life at its best.
 The health website that I am most passionate about. I did it within 1 month and perfected the user's health needs .I tried to design a very attractive interface. Easy to use and attracts users.
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations 
 ### Career goals
- - Short-term goals
+ - Short-term goals:
+   
  To gain hands-on experience in [App Dev] and contribute to innovative projects.
 
  To develop my skills in [Flutter] and become a proficient [Developer].
@@ -68,6 +69,7 @@ The health website that I am most passionate about. I did it within 1 month and 
  To secure a challenging position as a [Project manager] at a dynamic company.
  
  - Long-term goal:
+   
  To become a full-stack developer specializing in [AI].
 
  To lead a development team and build scalable applications.

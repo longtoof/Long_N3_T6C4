@@ -26,7 +26,7 @@ All About living life at its best.
 
 
 * 🌍  I'm based in TP Ho Chi Minh
-* 🖥️  See my portfolio at [Oder Food](http://github.com/longtoof/TienTrinh)
+* 🖥️  See my portfolio at [Oder Food](https://github.com/longtoof)
 * ✉️  You can contact me at [hailongtrannguyen7@gmail.com](mailto:hailongtrannguyen7@gmail.com)
  
 --------------
@@ -66,13 +66,10 @@ All About living life at its best.
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/longtoof/TienTrinh)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/k4sp3rz/DoAn_Mioto)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/HoangAnhWilliam/Test_EcommerceWebsite.git)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/TanPhuc2804/WebStore_KTPM)
 
 ### Cybersecurity Projects
 

@@ -67,7 +67,7 @@ All About living life at its best.
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/longtoof/TienTrinh)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/k4sp3rz/DoAn_Mioto)
+![MIOTO](https://github.com/k4sp3rz/DoAn_Mioto)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/HoangAnhWilliam/Test_EcommerceWebsite.git)
 [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/TanPhuc2804/WebStore_KTPM)
 

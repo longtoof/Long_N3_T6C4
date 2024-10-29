@@ -15,7 +15,7 @@ I'm 20 years old Full-Stack developer from Viet Nam.
 
 with Javascript, Typescript, React and 69 others.
 
-🔭 SpaceX FanBoi, die for space😼
+🔭 SpaceX FanBoi
 
 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
 
